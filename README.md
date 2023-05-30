@@ -7,13 +7,6 @@ All you have to do to run the final version of the calculator is typing `python3
 
 
 
-*information coming soon!*
-
-
-
-
-
-
 
 
 
