@@ -1,4 +1,24 @@
-```To be able to run the calculator you will first need to install ttkthemes and ttkbootstrap.
+**How to run the final version of the calculator (finalcalculatorgui.py):**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**First Commit Information:**
+
+To be able to run the calculator you will first need to install ttkthemes and ttkbootstrap.
 
 You can do this by running `pip3 install ttkthemes ttkbootstrap`
 
@@ -9,4 +29,4 @@ If an error pops up, it may be beacuse you are not viewing the folder which has 
 Thanks for checking it out!
 
 
-Note: A more modern gui will be released soon!```
+Note: A more modern gui will be released soon!
