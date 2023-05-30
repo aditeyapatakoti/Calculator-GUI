@@ -1,5 +1,6 @@
-**How to run the final version of the calculator (finalcalculatorgui.py):**
+**How to run the final version of the calculator (actualfinalgui.py):**
 
+All you have to do to run the final version of the calculator is typing `python3 actualfinalgui.py` (basically runs the file)
 
 
 
