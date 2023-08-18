@@ -1,3 +1,5 @@
+# **OLDER VERSION!** Please refer to README.md for the newest version of this code.
+
 import tkinter as tk
 from tkinter import ttk
 from ttkthemes import ThemedStyle
