@@ -1,13 +1,15 @@
-**How to run the final version of the calculator (actualfinalgui.py):**
+# Calculator GUI DOCS
+## How to run the main/final version of the calculator (actualfinalgui.py)
 
 1. Open a Terminal
 2. Run: 'cd Calculator-with-a-simple-GUI' in a terminal.
-   > [!NOTE]
-   > If you changed the folder name then use this format: 'cd <folder name here>'
-4. Run: `python3 actualfinalgui.py` in a terminal.
+> [!WARNING]
+> If you changed the folder name then use this format:
+> ```cd <folder name>```
+4. Run: ```python3 actualfinalgui.py``` in a terminal.
 If you run into any errors please let me know by creating an issue in the issues tab.
 
-**First Commit Information:** (unstable)
+## How to run the First Commit (unstable)
 
 > [!IMPORTANT]
 > To be able to run the calculator you will first need to install ttkthemes and ttkbootstrap.
