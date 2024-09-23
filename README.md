@@ -2,13 +2,15 @@
 
 1. Open a Terminal
 2. Run: 'cd Calculator-with-a-simple-GUI' in a terminal.
-   [!NOTE] If you changed the folder name then use this format: 'cd <folder name here>'
+   > [!NOTE]
+   > If you changed the folder name then use this format: 'cd <folder name here>'
 4. Run: `python3 actualfinalgui.py` in a terminal.
 If you run into any errors please let me know by creating an issue in the issues tab.
 
 **First Commit Information:** (unstable)
 
-[!IMPORTANT] To be able to run the calculator you will first need to install ttkthemes and ttkbootstrap.
+> [!IMPORTANT]
+> To be able to run the calculator you will first need to install ttkthemes and ttkbootstrap.
 
 You can do this by running `pip3 install ttkthemes ttkbootstrap`
 
